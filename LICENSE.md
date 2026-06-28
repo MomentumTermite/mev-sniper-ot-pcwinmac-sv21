@@ -1,4 +1,4 @@
-# 
+# VIP MEV sniper bot flujo de trabajo para Mac OS | Premium MEV sniper bot flujo de trabajo para PC Windows. Con baja latencia y análisis de volumen — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
